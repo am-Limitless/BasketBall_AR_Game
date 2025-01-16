@@ -1,0 +1,2 @@
+C:\Users\gokul\OneDrive\Documents\GitHub\BasketBallAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\gokul\OneDrive\Documents\GitHub\BasketBallAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
